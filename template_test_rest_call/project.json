@@ -1,1 +1,8 @@
-{"guid":"template_test_rest_call","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_test_rest_call.git"}}
+{
+    "guid":"template_test_rest_call",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_test_rest_call.git"
+    }
+}
